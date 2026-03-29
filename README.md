@@ -1,4 +1,4 @@
-Digital Literacy Project
+# # Digital Literacy Project
 Name:Divyaditya Singh
 Registration Number: 25BAI10643
 Branch: Computer Science Engineering
