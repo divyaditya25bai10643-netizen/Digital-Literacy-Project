@@ -38,9 +38,10 @@ This repository contains my Digital Literacy Project completed as part of the CS
 📁 Folder: task-5-cybercrime/
 
 🔗 Important Links 
-GitHub Repository: https://github.com/ArchiPatel07/ArchiPatel07/edit/main/README.md 
-LinkedIn Profile: https://www.linkedin.com/in/archi-patel-2112983b5/ 
-Kaggle Profile: https://www.kaggle.com/archipatel07
+GitHub Repository: 
+LinkedIn Profile: 
+Kaggle Profile: 
+
 📘 Conclusion 
 This project helped me improve my digital literacy skills, including technical knowledge, communication, and awareness about online safety. It provided hands-on experience with tools and platforms that are useful in both academic and professional environments.
 
